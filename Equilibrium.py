@@ -17,13 +17,3 @@ def get_equi(lis):
 
 result = get_equi(lis)
 print('Result:',result)
-
-
-
-
-
-
-
-
-
-
